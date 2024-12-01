@@ -22,5 +22,5 @@ You can access the full [Decentralized_Coaching_Federation_Whitepaper.pdf](https
 ---
 
 ## Logo
-![DCF Logo](./logo.png)
+
 ![DCF Logo](https://github.com/user-attachments/assets/79d4e196-71de-443c-8e2a-631c97c1171f)
