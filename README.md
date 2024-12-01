@@ -16,8 +16,7 @@ The name, logo, and concept of DCF, including this Whitepaper, are the intellect
 ---
 
 ## Whitepaper
-You can access the ful[Decentralized_Coaching_Federation_Whitepaper.pdf](https://github.com/user-attachments/files/17968090/Decentralized_Coaching_Federation_Whitepaper.pdf)
-l Whitepaper [Decentralized_Coaching_Federation_Whitepaper](./whitepaper.pdf).
+You can access the full [Decentralized_Coaching_Federation_Whitepaper.pdf](https://github.com/user-attachments/files/17968090/Decentralized_Coaching_Federation_Whitepaper.pdf)
 
 
 ---
